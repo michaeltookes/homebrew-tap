@@ -1,6 +1,6 @@
 cask "containerbar" do
-  version "2.0.1"
-  sha256 "89e0ebc9ead4188d860d2a83dfef6e644d64020a2caac86a1fb4c250d1918624"
+  version "2.0.2"
+  sha256 "2e9284ce9aa3e7c59085d0a549b83cad162ba82f7029d37adc8ae007771829f8"
 
   url "https://github.com/michaeltookes/ContainerBar/releases/download/v#{version}/ContainerBar.zip"
   name "ContainerBar"
