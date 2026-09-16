@@ -7,6 +7,7 @@ cask "containerbar" do
   desc "Docker and Podman container monitoring from your macOS menu bar"
   homepage "https://github.com/michaeltookes/ContainerBar"
 
+  depends_on arch: :arm64
   depends_on macos: ">= :sonoma"
 
   app "ContainerBar.app"
