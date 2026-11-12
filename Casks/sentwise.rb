@@ -1,6 +1,6 @@
 cask "sentwise" do
-  version "0.2.1"
-  sha256 "596bc33be7ae7b3e17678c2027dc26e0cd4b8c5d167b3f6f621d50e7048697bf"
+  version "0.2.3"
+  sha256 "93992f5e1278b750894e4c725aa2c3a2dc9ecd6996951c9f33c26c135c83dbc3"
 
   url "https://github.com/michaeltookes/sentwise/releases/download/v#{version}/Sentwise-#{version}.dmg"
   name "Sentwise"
